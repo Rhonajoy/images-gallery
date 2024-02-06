@@ -1,8 +1,56 @@
-# React + Vite
+# Image-Gallery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### Created By Rhonajoy
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A React based application that allows a user to view beautiful images from Unsplash Api.
+
+- Git
+- Web-browser of your choice
+- Github
+- Node js
+- Npm
+
+
+
+## Setup Installation
+
+- Copy the github repository url
+- Clone to your computer
+- Open terminal and navigate to the directory of the project you just cloned to your computer
+- Run the following command to install the required node modules
+
+```
+npm install
+```
+
+- To run the server
+
+```
+npm run dev
+
+```
+
+
+- Open the browser and navigate to  http://localhost:5173/ to see the application in action
+
+## Technologies Used
+
+The following languages have been used on this project:
+
+- HTML
+- CSS
+- React
+
+## Known Bugs
+
+ no bugs related to this project 
+
+## Support and contact details 
+
+To make a contribution to the code used or any suggestions you can click on the contact link and email me your suggestions.
+
+- Email: rhonajoy8@gmailcom
+- Phone: +254706555078
+
