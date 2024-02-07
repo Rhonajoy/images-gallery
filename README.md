@@ -42,7 +42,8 @@ The following languages have been used on this project:
 - HTML
 - CSS
 - React
-
+## Setup/Installation Requirements
+    [Live link ](https://images-gallery-lac.vercel.app/)to view the project View Image Gallery App
 ## Known Bugs
 
  no bugs related to this project 
